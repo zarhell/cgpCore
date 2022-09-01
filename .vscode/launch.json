@@ -1,0 +1,53 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch test",
+            "request": "launch",
+            "mainClass": "com.mintic.proyecto.core.search.service.test",
+            "projectName": "proyecto"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Launch CoreApplication",
+            "request": "launch",
+            "mainClass": "com.mintic.proyecto.core.CoreApplication",
+            "projectName": "core"
+        },
+        {
+            "type": "java",
+            "name": "Launch AnagramTest",
+            "request": "launch",
+            "mainClass": "com.mintic.proyecto.core.verification.service.AnagramTest",
+            "projectName": "core"
+        },
+        {
+            "type": "java",
+            "name": "Launch StreamTest",
+            "request": "launch",
+            "mainClass": "com.mintic.proyecto.core.verification.service.StreamTest",
+            "projectName": "core"
+        },
+        {
+            "type": "java",
+            "name": "Spring Boot-CoreApplication<proyecto>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "mainClass": "com.mintic.proyecto.core.CoreApplication",
+            "projectName": "proyecto",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
