@@ -1,4 +1,4 @@
-# Core Back end
+# CGP Back end
 
 ## Herramientras de desarrollo empleadas
 
