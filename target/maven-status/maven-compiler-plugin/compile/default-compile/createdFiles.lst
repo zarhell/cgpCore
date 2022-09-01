@@ -20,6 +20,7 @@ com\mintic\proyecto\core\retention\domain\CoreDocumentalRetention.class
 com\mintic\proyecto\core\search\service\DownloadFileService.class
 com\mintic\proyecto\core\commons\constans\ConstansCore.class
 com\mintic\proyecto\core\commons\service\Utils.class
+com\mintic\proyecto\core\search\service\test.class
 com\mintic\proyecto\core\upload\config\GcpCredentials.class
 com\mintic\proyecto\core\upload\service\UploadFileService.class
 com\mintic\proyecto\core\upload\service\UploadFileServiceImpl.class
@@ -37,3 +38,4 @@ com\mintic\proyecto\core\search\domain\DocumentalLifeCycleDates.class
 com\mintic\proyecto\core\retention\converter\OrganitationConverter.class
 com\mintic\proyecto\core\commons\domain\DocumentAreaDto.class
 com\mintic\proyecto\core\retention\domain\DocumentalGroupDto.class
+com\mintic\proyecto\core\WebConfiguration.class
